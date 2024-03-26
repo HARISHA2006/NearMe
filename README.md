@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 27-03-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -158,7 +158,6 @@ mangrove.html
 ```
 
 ## OUTPUT
-
 ![alt text](<Screenshot 2024-03-26 231624.png>) ![alt text](<Screenshot 2024-03-26 231539.png>) ![alt text](<Screenshot 2024-03-26 231119.png>) ![alt text](<Screenshot 2024-03-26 231107.png>) ![alt text](<Screenshot 2024-03-26 230902.png>) ![alt text](<Screenshot 2024-03-26 230846.png>)
 
 
